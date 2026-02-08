@@ -17,11 +17,11 @@
 
 ## 🌐 Websites
 - **Toby House Siargao** – Homestay website designed for bookings and guest information  
-  🔗 [https://tobyhousesiargao.com](https://toby-house.vercel.app/](https://toby-house.vercel.app/)
+  🔗 https://toby-house.vercel.app/](https://toby-house.vercel.app/
 
 ## 📫 How to Reach Me
 - Email: justin.velasquez2103@gmail.com
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/justine-velasquez-49906b378/)
+- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/justine-velasquez-49906b378/
 
 ## 🌱 Currently Seeking
 - OJT / Internship opportunities in web development and IT operations
