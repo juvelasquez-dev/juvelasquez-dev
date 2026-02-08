@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Justine Velasquez! 👋
 
-<!--
-**juvelasquez-dev/juvelasquez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- BS Information Technology student
+- Interested in web and system development
+- Passionate about building practical systems for real-world use
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Java, PHP, JavaScript
+- **Web:** HTML, CSS, Laravel
+- **Database:** MySQL
+- **Tools:** Git, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **BunTIS** – Smart Pregnancy & Birthing Home Management System (Capstone)
+- **POS & Inventory Management System** for Ice Cream Distributor
+
+## 🌐 Websites
+- **Toby House Siargao** – Homestay website designed for bookings and guest information  
+  🔗 [https://tobyhousesiargao.com](https://toby-house.vercel.app/](https://toby-house.vercel.app/)
+
+## 📫 How to Reach Me
+- Email: justin.velasquez2103@gmail.com
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/justine-velasquez-49906b378/)
+
+## 🌱 Currently Seeking
+- OJT / Internship opportunities in web development and IT operations
